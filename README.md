@@ -11,4 +11,4 @@ on the radio there is an option to choose the setting such as on a country or in
 sampled sounds for the beat.
 
 The music was coded primarily in Max_MSP which is a visual coding application and using chuck a music-optimized programming language. You'll need both to run the program. 
-It should still work with out the car or phone but will just be missing out on some features and certainly less fun. 
+It should still work with out the car or phone but will just be missing out on some features and certainly less fun. The main file is --project.maxpat which calls all of the other files.
